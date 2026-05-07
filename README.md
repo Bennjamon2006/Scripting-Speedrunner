@@ -7,5 +7,6 @@ El objetivo de estos retos no es crear soluciones óptimas, sino más bien exper
 ## Retos
 
 - [Mini-Shell (29 de abril)](mini-shell/README.md): Implementé una mini-shell en Node.js que simula el comportamiento de una terminal, permitiendo al usuario ejecutar comandos y ver sus resultados.
+- [Remote-Shell (6 de mayo)](remote-shell/README.md): Implementé una shell remota en Node.js que permite a los usuarios ejecutar comandos en un servidor remoto a través de conexiones HTTP.
 
 **Importante**: Si eres mi profesor y estás leyendo esto, estos retos surgieron como una forma de mantenerme activo durante las clases y aplicar en tiempo real los conceptos vistos. No estaba ignorando las clases, sino profundizando en lo que se estaba enseñando. 😅
